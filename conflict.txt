@@ -1,6 +1,4 @@
 Module 2: Introduction to Git
 
-learning outcome: 
-a. Understand version control systems, particularly the advantages of distributed systems like Git.
-b. Learn the basic and remote Git workflows, branching mechanisms, and resolving merge conflicts, encompassing tasks such as 
-   creating, switching, and merging branches, handling files, and managing a remote repository.
+conflicts merge assignment:
+This is the edit from Main Branch
