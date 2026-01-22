@@ -1,4 +1,4 @@
 Module 2: Introduction to Git
 
 conflicts merge assignment:
-This is the edit from Main Branch
+This is the edit from Main Branch + feature_conflict Branch
